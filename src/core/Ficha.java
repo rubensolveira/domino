@@ -6,7 +6,9 @@ package core;
 /**
  * @author Rubén Solveira Sorga - solveira.ruben@gmail.com
  */
-
+/*
+probando
+*/
 public class Ficha {
 
 	private int numIzquierdo;
